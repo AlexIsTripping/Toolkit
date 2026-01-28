@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="file:/Y:/sw/xsb/viewer/CSS/ISO.css"?>
+<!DOCTYPE article SYSTEM "file:/Y:/dtd/jats/publishing/JATS-Publishing-1-3-MathML3-DTD/JATS-journalpublishing1-3-mathml3.dtd"><article xml:lang="en" article-type="case-report" dtd-version="1.3" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta"/>
+<journal-title-group>
+<journal-title/>
+</journal-title-group>
+<issn pub-type="epub">
+9999-9999
+</issn>
+<publisher>
+<publisher-name>
+Institute of Education Sciences
+</publisher-name>
+<publisher-loc>Washington DC</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">ed611868_jats</article-id>
+<article-categories>
+<subj-group>
+<subject>
+Report
+</subject>
+<subject>
+STATS IN BRIEF
+</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>
+Profile of State Data Capacity in 2018: Statewide Longitudinal Data Systems (SLDS) Survey Descriptive Statistics. NCES 2021-126
+</article-title>
+</title-group>
+
+
+
+
+<contrib-group>
+<!-- Update: None of the authors had a corresp set to yes, 
+     Revised the problem by adding it to the first author    -->
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>
+Bloom-Weltman
+</surname> 
+<given-names>
+Julia
+</given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>
+Honey
+</surname> 
+<given-names>
+Roses
+</given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>
+Meholick
+</surname> 
+<given-names>
+Sarah
+</given-names>
+</name>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>
+Fettro
+</surname> 
+<given-names>
+Marshal
+</given-names>
+</name>
+</contrib> 
+<aff id="aff1">
+AEM Corporation
+</aff>
+</contrib-group>
+<contrib-group>
+<contrib contrib-type="author" id="contrib5">
+<name>
+<surname>
+King
+</surname> 
+<given-names>
+Kristen
+</given-names>
+</name>
+</contrib>
+<aff id="aff2">
+National Center for Education Statistics
+</aff>
+<role>
+PROJECT OFFICER
+</role>
+</contrib-group>
+<pub-date publication-format="electronic" date-type="pub">
+<day>01</day>
+<month>04</month>
+<year>2021</year>
+</pub-date>
+<pub-date publication-format="electronic" date-type="collection">
+<month>04</month>
+<year>2021</year>
+</pub-date>
+<fpage>1</fpage>
+<lpage>18</lpage>
+<permissions/>
+
+<abstract>
+<p>
+<bold>
+Statistics in Brief
+</bold>
+ publications present descriptive data in tabular formats to provide useful information to a broad audience, including members of the general public. They address simple and topical issues and questions. They do not investigate more complex hypotheses, account for interrelationships among variables, or support causal inferences. We encourage readers who are interested in more complex questions and in-depth analysis to explore other National Center for Education Statistics (NCES) resources, including publications, online data tools, and public- and restricted-use datasets. See nces.ed.gov and references noted in the body of this document for more information
+</p>
+</abstract>
+
+</article-meta>
+<notes id="note1-ed611868">
+<p>
+U.S. DEPARTMENT OF EDUCATION
+</p>
+<p>
+<italic>A Publication of the National Center for Education Statistics at IES</italic>
+</p>
+</notes>
+
+</front>
+<body>
+
+
+
+<p>
+For the past 15 years, the U.S. Department of Education has awarded funding to states and territories to support the design and development of statewide longitudinal data systems (SLDSs). SLDSs collect, analyze, and use data that span individuals’ education experiences from preschool to the workforce. SLDSs are designed to help states, districts, schools, educators, and other stakeholders make data-informed decisions to improve student learning and outcomes.
+</p>
+<p>
+Since the SLDS Grant Program began in 2006, robust P-20W+
+<xref ref-type="fn" rid="fn1-ed611868">
+<sup>
+1
+</sup>
+</xref>
+ SLDSs have allowed researchers, policymakers, and practitioners alike to understand important data relationships that help to determine immediate and long-term impacts of education. For example, does tracking preschool attendance help to predict student kindergarten readiness? Can assessment results predict which students will enroll and persist in college? Is teacher certification an important factor in students’ academic proficiency and success in the workforce? With a fully operational SLDS, state and territory governments can establish more informed education policies, agency leaders can develop more relevant education strategies, and educators can make more data-driven decisions for their students.
+</p>
+
+<p>
+Nationwide, states’ and territories’ data capacity and ability to answer these kinds of important questions remain varied. States’ and territories’ SLDSs differ along multiple factors, including legislative directives and regulations, funding levels, technical capacity, and organizational design. The SLDS Survey provides standard measures for data capacity, a first step toward understanding the links between conditions in states and territories and their capacity levels.
+</p>
+<p>
+Understanding impacts of education policy and practice requires datasets and data systems to change and evolve. These needs underscore the importance of having SLDSs that can quickly provide data that will help empower education decisionmakers. Teachers, administrators, policymakers, and researchers continually need to respond to new questions about such things as the education and workforce trajectories of students, the availability of qualified teachers, and education program outcomes. Access to education data and the capacity that states and territories have to answer complicated questions is more important than ever.
+</p>
+<p>
+The SLDS Survey was first administered in the summer of 2017. This annual survey was created to help inventory the current data capacity of states’ and territories’ SLDSs. It not only focuses on whether a given data type or use is in place, but also explores the development of these data systems and their varying degrees of implementation.
+</p>
+<p>
+The SLDS Survey asks all states and territories to provide information about the types of data that are included in their SLDSs; how they use SLDS data to inform policy; and the capacity of their SLDSs for automated linking of K–12 student data to other data, including teacher, postsecondary, workforce, Perkins career and technical education (CTE), and early childhood data. To provide a snapshot of current data system capabilities, the survey collects information about states’ and territories’ goals and intentions regarding their data systems by asking respondents to indicate whether a data system’s capacity is in place and operational, in progress toward becoming operational, planned, or not planned.
+</p>
+<p>
+This Statistics in Brief provides aggregate information about states and territories that connect data from different sources in their SLDSs. In order to explore the types of data they collect, how the data are defined, how the data systems are structured, and how the data are ultimately used, this brief explores the following four study questions that represent a portion of the results collected from the survey.
+</p>
+<p>
+<list list-type="order" id="lst1">
+<list-item>
+<label>
+1.
+</label>
+<p>
+What types of K–12 data are included in the statewide longitudinal data systems (SLDSs)?
+</p>
+</list-item>
+<list-item>
+<label>
+2.
+</label>
+<p>
+What is the capacity for linking K–12 student data in the SLDS to other data? How are the data linked?
+</p>
+</list-item>
+<list-item>
+<label>
+3.
+</label>
+<p>
+Are there data dictionaries published to the state website? Are data aligned to the Common Education Data Standards (CEDS)?
+</p>
+</list-item>
+<list-item>
+<label>
+4.
+</label>
+<p>
+How do states and territories use data for reporting and decisionmaking?
+</p>
+</list-item>
+</list>
+</p>
+<sec id="sec1-ed611868" sec-type="methods">
+<title>
+Data, Measures, and Methods
+</title>
+<p>
+<italic>
+Data
+</italic>
+. This brief presents findings from the 2018 SLDS Survey, the second year of the annual survey. The response rate increased from 82 percent (46 states and territories) in 2017 to 91 percent (51 of 56 states and territories) in 2018. All state education agencies (SEAs) eligible to receive SLDS grants received the SLDS Survey, including SEAs from all 50 states, the District of Columbia, the U.S. Virgin Islands, Puerto Rico, American Samoa, Guam, and the Northern Mariana Islands.
+</p>
+<p>
+NCES sent letters to the SLDS project director in each SEA asking them to participate in the survey. Respondents completed the 48-question survey via a fillable PDF sent electronically to each SEA. Survey respondents were not necessarily the SLDS project directors; in some cases, other SEA staff members responded or assisted in the response. In rare instances, staff members from partner organizations responded because some states and territories host SLDSs outside of the SEA. The survey collected information both on the respondents, including their titles and additional stakeholders consulted, and on the capacity of the SLDS.
+</p>
+<p>
+Broadly speaking, K–12 data include data about students, educators, and schools. The SLDS Survey asks respondents whether their SLDSs contain specific types of K–12 data, such as student enrollment and assessment results. Postsecondary data include information related to institutions of higher education, from institutional data like tuition and fees to student data such as admission and completion. Workforce data include wages and employment statistics and can come from a variety of sources at the state and local levels. Perkins CTE data focus on programs offered and student participation, completion, transitions, and outcomes. Finally, early childhood education data include data about providers of and participation in early childhood education services.
+</p>
+<p>
+<italic>
+Measures
+</italic>
+. Respondents are asked to indicate whether a data type or capability is operational, in progress, planned, or not planned. The survey defines “operational” as fully functional and available for its intended users. “In progress” is defined as currently being built or implemented as part of the SLDS but not yet fully operational. “Planned” data types and capabilities are those that the state or territory intends to include in its SLDS and for which it has a documented plan and funding source, but has not yet begun to implement. “Not planned” indicates that the state or territory currently has not planned or included this data or capability in its SLDS. “Not planned” also indicates items that are not applicable to a state or territory’s SLDS. In response to feedback and questions received about the 2017 survey, additional definitions were provided at the end of the 2018 survey.
+</p>
+<p>
+<italic>
+Methods
+</italic>
+. This report presents aggregate summary statistics of states’ and territories’ SLDS capacity based only on the responses received. Skip logic implemented in the survey automatically populated the response “not planned” for some questions. For example, where respondents indicated that connections between certain data types were not planned, all questions about those connections were automatically given a response of “not planned.” A response was considered “not answered” if it was missing. Because the questions included a “not answered” category, all percentages are derived from the 51 state and territory respondents for the 2018 survey.
+</p>
+<p>
+One limitation of the survey is that the skills, resources, and expertise of the respondents could vary across the states and territories, affecting their responses. In the data use section in particular, knowledge of how other stakeholders use SLDS data could vary. Additionally, changes in the respondent from a state or territory from year to year may limit the ability to understand trends over time.
+</p>
+<p>
+For more information about the data, measures, and methods used in this brief, please see the 
+<bold>
+Methodology and Technical Notes
+</bold>
+ section at the end of the report.
+</p>
+</sec>
+<sec id="sec2-ed611868">
+<title>
+STUDY QUESTIONS
+</title>
+<sec id="sec3-ed611868">
+<title>
+Key Findings
+</title> 
+<p>
+<bold>
+1 What types of K–12 data are included in the statewide longitudinal data systems (SLDSs)?
+</bold>
+
+<list list-type="bullet" id="lst2">
+<list-item>
+<p>
+K–12 student data were included in 94 percent of SLDSs (48 of 51 of the participating states and territories) in 2018 (
+
+<xref rid="f1-ed611868" ref-type="fig">
+figure 1
+</xref>
+
+).
+</p>
+</list-item>
+<list-item>
+<p>
+The K–12 student data types that were most commonly reported as operational by states and territories are student demographics, grade level, school enrollment and completion, transfer status, homelessness status, dropout history, attendance, and statewide summative assessment scores (
+
+<xref rid="f2-ed611868" ref-type="fig">
+figure 2
+</xref>
+
+).
+</p>
+</list-item>
+<list-item>
+<p>
+More than three-quarters of states and territories (79 percent) reported that they collect data across multiple agencies in a P-20W+ environment (
+
+<xref rid="f3-ed611868" ref-type="fig">
+figure 3
+</xref>
+
+).
+</p>
+</list-item>
+</list>
+</p>
+<p>
+<bold>
+2 What is the capacity for linking K–12 student data in the SLDS to other data? How are the data linked?
+</bold>
+<list list-type="bullet" id="lst2a">
+<list-item>
+<p>
+At least 70 percent of states and territories reported planned, in progress, or operational automated linkages between K–12 student and K–12 teacher (71 percent), postsecondary (79 percent), Perkins CTE (83 percent), and early childhood (80 percent) data (
+
+<xref rid="f4-ed611868" ref-type="fig">
+figure 4
+</xref>
+
+).
+</p>
+</list-item>
+<list-item>
+<p>
+K–12 student data are linked with data from other sectors using a variety of strategies (
+
+<xref rid="f5-ed611868" ref-type="fig">
+figure 5
+</xref>
+
+). The most common operational strategies include course assignments for K–12 teacher data (71 percent), an element match process for postsecondary data (65 percent), and assigned unique identifiers for Perkins CTE (73 percent) and early childhood data (61 percent).
+</p>
+</list-item>
+<list-item>
+<p>
+States and territories use linked data to enable several replicable, automated processes (
+
+<xref rid="f6-ed611868" ref-type="fig">
+figure 6
+</xref>
+
+). About one-third of states and territories reported operational capabilities to move student data from K–12 to in-state postsecondary institutions through e-transcripts (39 percent), from local education agencies (LEAs) to the SEA through Student Records Exchange (SRE or SREx) (35 percent), and from K–12 to other states’ postsecondary entities via e-transcripts (31 percent).
+</p>
+</list-item>
+</list>
+</p>
+<p>
+<bold>
+3 Are there data dictionaries published to the state website? Are data aligned to the Common Education Data Standards (CEDS)?
+</bold>
+<list list-type="bullet" id="lst2b">
+<list-item>
+<p>
+Nearly three-quarters of states and territories (73 percent) reported having operational comprehensive data dictionaries for K–12 student data (
+
+<xref rid="f7-ed611868" ref-type="fig">
+figure 7
+</xref>
+
+).
+</p>
+</list-item>
+<list-item>
+<p>
+For states and territories with comprehensive data dictionaries, one-third (33 percent) reported that their K–12 student data elements are aligned to CEDS (
+
+<xref rid="f8-ed611868" ref-type="fig">
+figure 8
+</xref>
+
+).
+</p>
+</list-item>
+</list>
+</p>
+<p>
+<bold>
+4 How do states and territories use data for reporting and decisionmaking?
+</bold>
+<list list-type="bullet" id="lst2c">
+<list-item>
+<p>
+The survey asks about several common data uses, including for instructional support, resources for stakeholders, and decisionmaking (
+
+<xref rid="f9-ed611868" ref-type="fig">
+figure 9
+</xref>
+
+). The most commonly reported data use for almost all sectors of data was in resources like scorecards or dashboards for the public, parents, and community members.
+</p>
+</list-item>
+<list-item>
+<p>
+In addition to the uses discussed above, states and territories indicated that they use data for additional federal and state reports not specific to a sector (
+
+<xref rid="f10-ed611868" ref-type="fig">
+figure 10
+</xref>
+
+). Forty-three percent of states and territories reported operational use of data for data quality reports, and 37 percent of states and territories reported operational use of data for reports to the governor or legislature.
+</p>
+</list-item>
+</list>
+</p>
+
+
+<fig fig-type="figure" id="f1-ed611868" position="float">
+<label>
+FIGURE 1.
+</label>
+<caption>
+<p>
+Number of states and territories with K–12 student data included in the SLDS: 2017 and 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f1.png">
+<alt-text>
+Figure 1: Vertical bar chart displaying the number of states and territories with K-12 student data included in the SLDS for 2017 and 2018. Two columns in shades of purple are displayed, one for each year of data. Description of data included in report.NOTE: N = 46 in 2017 and N = 51 in 2018.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 46 in 2017 and N = 51 in 2018.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f2-ed611868" position="float">
+<label>
+FIGURE 2.
+</label>
+<caption>
+<p>
+Percentage of states and territories with selected K–12 student data types included in the SLDS, by operational status: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f2.png">
+<alt-text>
+Figure 2: Horizontal bar chart displaying the percentage of states and territories with selected K–12 student data types included in the SLDS, by operational status: 2018.Horizontal bars display the percentage for each data type in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. “Other program participation” includes participation in free and reduced-price lunch, Title I, English language learners, and special education programs. AP refers to Advanced Placement. SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. “Other program participation” includes participation in free and reduced-price lunch, Title I, English language learners, and special education programs. AP refers to Advanced Placement.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f3-ed611868" position="float">
+<label>
+FIGURE 3.
+</label>
+<caption>
+<p>
+Percentage of states and territories with P-20W+ data collections, by model type: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f3.png">
+<alt-text>
+Figure 3: Horizontal bar chart displaying the percentage of states and territories with P-20W+ data collections, by model type: 2018.Data are displayed on a vertical axis ranging from zero to one hundred percent with markings in increments of twenty. Five columns in purple are displayed along the horizontal axis, one for each P-20W+ data model type. From left to right, the model types are: Centralized, Federated, Hybrid, Not applicable, and Not answered.Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. P-20W+ refers to data from prekindergarten (early childhood), K–12, and postsecondary through postgraduate education, along with workforce and other outcomes data (e.g., public assistance and corrections data). The specific agencies and other organizations that participate in the P-20W+ initiative vary from state to state. SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. P-20W+ refers to data from prekindergarten (early childhood), K–12, and postsecondary through postgraduate education, along with workforce and other outcomes data (e.g., public assistance and corrections data). The specific agencies and other organizations that participate in the P-20W+ initiative vary from state to state.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f4-ed611868" position="float">
+<label>
+FIGURE 4.
+</label>
+<caption>
+<p>
+Percentage of states and territories with other sector data linked to K–12 student data, by operational status: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f4.png">
+<alt-text>
+Figure 4: Horizontal bar chart displaying the percentage of states and territories with other sector data linked to K–12 student data, by operational status: 2018.Horizontal bars display the percentage for each data sector in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f5-ed611868" position="float">
+<label>
+FIGURE 5.
+</label>
+<caption>
+<p>
+Percentage of states and territories with direct K–12 student data links to other data sectors, by linking method and operational status: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f5.png">
+<alt-text>
+Figure 5: Horizontal bar chart displaying the percentage of states and territories with direct K–12 student data links to other data sectors, by linking method and operational status: 2018.Horizontal bars display the percentage for each sector of data and how the data are linked in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education. ID refers to unique identifier.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education. ID refers to unique identifier.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f6-ed611868" position="float">
+<label>
+FIGURE 6.
+</label>
+<caption>
+<p>
+Percentage of states and territories that move student data through replicable, automated processes, by process: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f6.png">
+<alt-text>
+Figure 6: Horizontal bar chart displaying the percentage of states and territories that move student data through replicable, automated processes, by process: 2018.Horizontal bars display the percentage for each type of interoperability process in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f7-ed611868" position="float">
+<label>
+FIGURE 7.
+</label>
+<caption>
+<p>
+Percentage of states and territories with sector data dictionaries published to their state website, by operational status: 2018 Sector of data
+</p>
+</caption>
+<graphic xlink:href="ED611868-f7.png">
+<alt-text>
+Figure 7: Horizontal bar chart displaying the percentage of states and territories with sector data dictionaries published to their state website, by operational status: 2018Horizontal bars display the percentage for each sector of data in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f8-ed611868" position="float">
+<label>
+FIGURE 8.
+</label>
+<caption>
+<p>
+Percentage of states and territories with sector data that are aligned to the Common Education Data Standards (CEDS) in a comprehensive data dictionary, by operational status: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f8.png">
+<alt-text>
+Figure 8: Horizontal bar chart displaying the percentage of states and territories with sector data that are aligned to the Common Education Data Standards (CEDS) in a comprehensive data dictionary, by operational status: 2018.Horizontal bars display the percentage for each sector of data in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f9-ed611868" position="float">
+<label>
+FIGURE 9.
+</label>
+<caption>
+<p>
+Percentage of states and territories with sector data used for instructional support, resources, and decisionmaking, by operational status: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f9.png">
+<alt-text>
+Figure 9: Horizontal bar chart displaying the percentage of states and territories with sector data used for instructional support, resources, and decisionmaking, by operational status: 2018.Horizontal bars display the percentage for each data use and sector of data in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. CTE refers to career and technical education.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+<fig fig-type="figure" id="f10-ed611868" position="float">
+<label>
+FIGURE 10.
+</label>
+<caption>
+<p>
+Percentage of states and territories using SLDS data for additional federal and state reports: 2018
+</p>
+</caption>
+<graphic xlink:href="ED611868-f10.png">
+<alt-text>
+Figure 10: Horizontal bar chart displaying the percentage of states and territories using SLDS data for additional federal and state reports: 2018.Horizontal bars display the percentage for each data use for federal and state reports in five categories along horizontal axis. The categories from left to right are: Not Answered (displayed in purple), Not planned (displayed in white with diagonal purple stripes), Operational (displayed in dark green), In progress (displayed in light green), and Planned (displayed in white with green stripes).Description of data included in report.NOTE: N = 51. Detail may not sum to total due to rounding. SEA refers to state education agency.SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</alt-text>
+</graphic>
+<p>
+NOTE: N = 51. Detail may not sum to total due to rounding. SEA refers to state education agency.
+</p>
+<attrib>
+SOURCE: U.S. Department of Education, National Center for Education Statistics, Statewide Longitudinal Data Systems (SLDS) Survey, Fall 2018.
+</attrib>
+</fig>
+</sec>
+<sec id="sec4-ed611868">
+<title>
+<bold>
+1
+</bold>
+ What types of K–12 data are included in the statewide longitudinal data systems (SLDSs)?
+</title>
+<p>
+Not surprisingly given that most SLDSs are initially built in SEAs, 2017 and 2018 survey respondents indicated that K–12 student data play a key role in their SLDS projects. K–12 student data were included in 94 percent of SLDSs (48 of 51 states and territories that responded to the survey) in 2018 (
+
+<xref rid="f1-ed611868" ref-type="fig">
+figure 1
+</xref>
+
+). That percentage is almost unchanged from 96 percent (44 of 46 states and territories) in the 2017 survey.
+</p>
+<p>
+States and territories reported the current operational status of 24 types of K–12 student data in their SLDSs (
+
+<xref rid="f2-ed611868" ref-type="fig">
+figure 2
+</xref>
+
+). Respondents indicated whether each data type was “operational,” “in progress,” “planned,” or “not planned.” 
+
+<xref rid="f2-ed611868" ref-type="fig">
+Figure 2
+</xref>
+
+ and subsequent figures show the percentage of respondents giving each of those four responses, along with the percentage who did not answer. The bars in the figures are centered on 0 for easier comparisons. Responses of “not planned” and “not answered” are shown in purple on the left side of the figure, and “operational,” “in progress,” and “planned” responses are shown in green on the right. “Operational” and “not planned” responses are shown closest to the 0 point at center so that they can be easily compared. Because an “operational” response indicates that a data type or capability is fully functional and available for its intended users, most discussion focuses on those responses.
+</p>
+<p>
+The K–12 student data types that were most commonly reported as operational by states and territories are student demographics
+ (88 percent), grade level (88 percent), school enrollment and completion (88 percent), transfer status (86 percent), homelessness status (82 percent), dropout history (82 percent), attendance (80 percent), and statewide summative assessment scores (80 percent). Notably, all of the data types most frequently cited as operational are required for federal reporting. There was no significant change from the 2017 survey to the 2018 survey in the percentage of states and territories reporting each type of K–12 student data as operational. Other operational student-level data types reported by more than three-quarters of states and territories are other program participation (78 percent), in-state dual enrollment (78 percent), diploma/certificate information (78 percent), and course enrollment (76 percent).
+</p>
+<p>
+The 2018 survey revealed that the K–12 data types least commonly reported as operational are kindergarten entry assessment scores (45 percent), out-of-state dual enrollment (35 percent), statewide benchmark assessment scores (33 percent), local benchmark assessment scores (24 percent), and instructional methods used in the classroom (8 percent). These were also the least commonly operational data types in the 2017 survey. A significant number of states and territories (22 percent to 76 percent) indicated that they do not plan to include these data types in their SLDSs.
+</p>
+</sec>
+<sec id="sec5-ed611868">
+<title>
+<bold>
+2
+</bold> 
+What is the capacity for linking K–12 student data in the SLDS to other data? How are the data linked?
+</title>
+<p>
+More than three-quarters of states and territories responding to the survey (79 percent) reported that they collect data across multiple agencies in a P-20W+ environment (
+
+<xref rid="f3-ed611868" ref-type="fig">
+figure 3
+</xref>
+
+). The type of data system model used for P-20W+ SLDSs varies, with 41 percent of states and territories reporting using a centralized data system model,
+<xref ref-type="fn" rid="fn2-ed611868">
+<sup>
+2
+</sup>
+</xref>
+ 18 percent reporting using a federated model,
+<xref ref-type="fn" rid="fn3-ed611868">
+<sup>
+3
+</sup>
+</xref>
+ and 20 percent reporting using a hybrid model.
+<xref ref-type="fn" rid="fn4-ed611868">
+<sup>
+4
+</sup>
+</xref>
+ Eighteen percent of states and territories reported that the question was not applicable, and 4 percent did not respond to the question.
+</p>
+
+<p>
+A little more than half of states and territories reported having operational automated infrastructure to link K–12 student data to postsecondary data (51 percent), to Perkins CTE data (53 percent), and to early childhood data (53 percent) (
+
+<xref rid="f4-ed611868" ref-type="fig">
+figure 4
+</xref>
+
+).
+</p>
+<p>
+A smaller percentage of states and territories have operational automated links between K–12 student data and K–12 teacher data (43 percent) and workforce data (31 percent). Less than one-third of states and territories do not plan to link K–12 student data to data from all the other sectors. Almost three-quarters of states and territories reported planned, in progress, or operational automated linkages between K–12 student and K–12 teacher, postsecondary, Perkins CTE, and early childhood data.
+</p>
+<sec id="sec6-ed611868">
+<title>
+How Are Data Directly Linked to K–12 Student Data?
+</title>
+<p>
+It is important to be able to connect information about students to nonstudent entities like teachers or to long-term outcomes like workforce participation. These connections are possible only with direct linkages between K–12 student data and other data types. K–12 student data are linked with data from other sectors using a variety of strategies (
+
+<xref rid="f5-ed611868" ref-type="fig">
+figure 5
+</xref>
+
+).
+</p>
+<p>
+For K–12 teacher data, 71 percent of states and territories reported having operational linkages to K–12 student data through course assignments. Sixty-three percent of states and territories reported using statewide unique teacher identification numbers (IDs) as part of their strategy to link K–12 student data to K–12 teacher data. Data linking methods are not mutually exclusive; for example, many of the states and territories that reported linking K–12 teacher and student data through course assignments also use statewide unique IDs.
+</p>
+<p>
+States and territories most commonly reported using an element match process
+<xref ref-type="fn" rid="fn6-ed611868">
+<sup>
+5
+</sup>
+</xref>
+ to connect K–12 student data to postsecondary data (operational in 65 percent of responding states and territories) and workforce data (operational in 37 percent of responding states and territories). Assigned unique identifiers were the method most commonly reported as operational for connecting K–12 student data to Perkins CTE data (73 percent) and to early childhood data (61 percent).
+</p>
+<p>
+Overall, respondents reported few significant changes to how they link data between the 2017 and 2018 surveys.
+</p>
+<p>
+States and territories use linked data to enable several replicable, automated processes (
+
+<xref rid="f6-ed611868" ref-type="fig">
+figure 6
+</xref>
+
+). The processes most commonly reported as operational by states and territories included moving student data from K–12 to in-state postsecondary institutions through e-transcripts (39 percent), moving student data from LEAs to the SEA through Student Records Exchange
+<xref ref-type="fn" rid="fn7-ed611868">
+<sup>
+6
+</sup>
+</xref>
+ (SRE or SREx) (35 percent), and moving student data to other states’ postsecondary entities via e-transcripts (31 percent). Less commonly reported as operational were moving student data across LEAs in the state through Student Records Exchange (24 percent); cross-state data sharing with the Southeast Education Data Exchange, the Midwest Education Information Consortium, the Wage Record Interchange System (WRIS) or WRIS 2 (14 percent); and moving student data to other states’ SEAs via Student Records Exchange(4 percent).
+</p>
+
+</sec>
+</sec>
+<sec id="sec7-ed611868">
+<title>
+<bold>
+3
+</bold> 
+Are there data dictionaries published to the state website? Are data aligned to the Common Education Data Standards (CEDS)?
+</title>
+<p>
+States and territories reported on the status of comprehensive data dictionaries by sector that contain metadata such as definitions, option sets, type, or field length, as well as whether those dictionaries are published publicly to state websites (
+
+<xref rid="f7-ed611868" ref-type="fig">
+figure 7
+</xref>
+
+). Nearly three-quarters of states and territories (73 percent) reported having operational comprehensive data dictionaries for K–12 student data, and over half of respondents reported having operational dictionaries for postsecondary and Perkins CTE data (57 and 53 percent, respectively). Comprehensive data dictionaries for workforce and early childhood data were somewhat less commonly reported as operational and published to state websites (41 and 31 percent, respectively).
+</p>
+<p>
+For states and territories with comprehensive data dictionaries, one-third (33 percent) reported that their K–12 student data elements were aligned to CEDS (
+
+<xref rid="f8-ed611868" ref-type="fig">
+figure 8
+</xref>
+
+). Fewer states and territories reported that their postsecondary data elements
+ (18 percent) and Perkins CTE data elements (18 percent) were aligned to CEDS. Less commonly, respondents reported having
+ CEDS-aligned early childhood data elements (12 percent) and workforce data elements (10 percent) in a comprehensive data dictionary.
+</p>
+<p>
+A majority of states and territories reported planning or being in the process of aligning to CEDS all data apart from workforce data. Twenty-five percent of states and territories report not planning to align K–12 student data to CEDS.
+</p>
+</sec>
+<sec id="sec8-ed611868">
+<title>
+<bold>
+4
+</bold> 
+How do states and territories use data for reporting and decisionmaking?
+</title>
+<sec id="sec9-ed611868">
+<title>
+Data Used for Instructional Support, Resources for Stakeholders, and Decisionmaking
+</title>
+<p>
+The survey asked respondents to report how they use K–12 student, postsecondary, workforce, Perkins CTE, and early childhood data. 
+
+<xref rid="f9-ed611868" ref-type="fig">
+Figure 9
+</xref>
+
+ shows how states and territories reported using data to support instruction, create resources for stakeholders, and make decisions. The most common use for almost all sectors of data was in resources like scorecards  or dashboards for the public, parents, and community members. Sixty-five percent of states and territories reported that the use of K–12 data in these resources was operational, 47 percent of states and territories reported that the use of postsecondary data in these resources was operational, and 25 percent reported that the use of early childhood data in these resources was operational. Data across all sectors are less commonly used for curriculum decisions or materials, with more than half of states and territories responding that they are not planning this use of data.
+</p>
+</sec>
+<sec id="sec10-ed611868">
+<title>
+Data Used for Additional Federal and State Reports
+</title>
+<p>
+In addition to the uses discussed above, states and territories indicated that they use data for additional types of federal and state reports not specific to a sector (
+
+<xref rid="f10-ed611868" ref-type="fig">
+figure 10
+</xref>
+
+). Forty-three percent of states and territories reported operational use of data for data quality reports, which describe issues like error rates and the timeliness of data submissions and certifications. Thirty-seven percent of states and territories reported operational use of data for reports to the governor or legislature.
+</p>
+<p>
+About one-third of states and territories reported operational uses of SLDS data for reports on research, policy agendas, or strategic plans (35 percent); agency or board reports on goals, initiatives, and policy attainment (31 percent); and reports about student nonparticipation in statewide assessments for reasons such as medical emergency, absence, or opting out of testing (31 percent). The use of SLDS data for reports on usage statistics by user role, like teachers, administrators, SEAs, the public, or other users, was somewhat less common, with less than a quarter of states and territories reporting this data use as operational (24 percent).
+</p>
+</sec>
+</sec>
+</sec>
+<sec id="sec11-ed611868">
+<title>
+FIND OUT MORE
+</title>
+<p>
+<bold>
+For questions about content, to download this Statistics in Brief, or to view it online, go to
+</bold>
+ <ext-link xlink:href="https://nces.ed.gov/pub-search/pubsinfo.asp?pubid=2021126" ext-link-type="uri">
+<bold>
+<ext-link xlink:href="https://nces.ed.gov/pub-search/pubsinfo.asp?pubid=2021126" ext-link-type="uri">https://nces.ed.gov/pub-search/pubsinfo.asp?pubid=2021126</ext-link>
+</bold>
+</ext-link>
+</p>
+<p>
+<bold>
+Readers may also be interested in the following NCES products related to topics covered in this Statistics in Brief:
+</bold>
+</p>
+<p>
+<italic>
+Statewide Longitudinal Data Systems (SLDS) Survey Analysis
+</italic>
+ (NCES 2020-157). 
+<ext-link xlink:href="https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2020157" ext-link-type="uri">
+https://nces.ed.gov/ pubsearch/pubsinfo.asp?pubid=2020157
+</ext-link>
+.
+</p>
+<p>
+<italic>
+The Feasibility of Collecting School-Level Finance Data: An Evaluation of Data From the School-Level Finance Survey (SLFS) School Year 2013–14
+</italic>
+ (NCES 2018-305). 
+<ext-link xlink:href="https://nces.ed.gov/pubSearch/pubsinfo.asp?pubid=2018305" ext-link-type="uri">
+https://nces.ed.gov/pubSearch/ pubsinfo.asp?pubid=2018305
+</ext-link>
+.
+</p>
+<p>
+<italic>
+The Forum Guide to Collecting and Using Attendance Data
+</italic>
+ (NFES 2017-007). 
+<ext-link xlink:href="https://nces.ed.gov/pubSearch/pubsinfo.asp?pubid=NFES2017007" ext-link-type="uri">
+https://nces.ed.gov/pubSearch/ pubsinfo.asp?pubid=NFES2017007
+</ext-link>
+.
+</p>
+<p>
+<italic>
+Forum Guide to Facility Information Management:
+</italic>
+</p>
+<p>
+<italic>
+A Resource for State and Local Education Agencies
+</italic>
+ (NFES 2018-156). 
+<ext-link xlink:href="https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=NFES2018156" ext-link-type="uri">
+https://nces.ed.gov/pubsearch/ pubsinfo.asp?pubid=NFES2018156
+</ext-link>
+.
+</p>
+<sec id="sec12-ed611868" sec-type="methods">
+<title>
+Methodology and Technical Notes
+</title>
+<sec id="sec13-ed611868">
+<title>
+Overview of the SLDS Survey
+</title>
+<p>
+The Statewide Longitudinal Data Systems (SLDS) Survey was created to assess states’ and territories’ capacity for automated linking of K–12 student, teacher, postsecondary, workforce, Perkins career and technical education (CTE), and early childhood data in their SLDSs. Although states and territories that were awarded SLDS grants provide updates on the progress of their data systems, the SLDS Survey formally and systematically collects SLDS capacity information across all states and territories. The information collected by the survey helps the National Center for Education Statistics (NCES) evaluate the SLDS Grant Program and improve the technical assistance that the program provides to states and territories in the areas of SLDS development, enhancement, and use.
+</p>
+<p>
+The SLDS Survey was designed to inventory data systems in several ways. First, the survey asks states and territories to identify the types of data included and available for use in their SLDSs by providing a list of K–12 student data types and asking states and territories to indicate whether each type is operational, in progress, planned, or not planned for inclusion in the SLDS. The survey also asks whether there is automated infrastructure in place to link K–12 student data with data from five other sectors: K–12 teacher, postsecondary, workforce, Perkins CTE, and early childhood data. For each of these sectors, states and territories are asked how data are linked and what types of data within each sector are directly linked to K–12 student data. States and territories also are asked to report how they use data from each sector to inform policy, practices, and decisionmaking based on a provided list of data uses. The response categories are defined at the onset of the survey as the following:
+</p>
+<p>
+<bold>
+Operational
+</bold>
+—This data type or capability is fully functional and available for its intended users.
+</p>
+<p>
+<bold>
+In Progress
+</bold>
+—The state is currently building or implementing this data type or capability as part of its SLDS, but it is not yet fully operational.
+</p>
+<p>
+<bold>
+Planned
+</bold>
+—The state intends to include this data type or capability in its SLDS and has a documented plan and funding source to implement it, but implementation has not begun.
+</p>
+<p>
+<bold>
+Not Planned
+</bold>
+—The state is currently not planning to include this data type or capability in its SLDS. “Not Planned” should also be marked for items that are not applicable to the SLDS at this time for reasons such as legislative prohibitions or “unadopted” interest.
+</p>
+</sec>
+<sec id="sec14-ed611868">
+<title>
+Sample Frame/Selection
+</title>
+<p>
+The respondent universe for this survey included state education agencies (SEAs) from each of the 50 states, the District of Columbia, the U.S. Virgin Islands, Puerto Rico, American Samoa, Guam, and the Northern Mariana Islands. This was a census of the universe of SEAs eligible to receive grants through the SLDS Grant Program, thus sampling was not used.
+</p>
+</sec>
+<sec id="sec15-ed611868">
+<title>
+Data Collection
+</title>
+<p>
+The SLDS Survey was distributed to SLDS project directors in each SEA electronically as an e-mail attachment. In addition, NCES invited SLDS contacts to participate in a presurvey informational webinar to share further information about the survey’s purpose and to answer any questions. Survey recruitment began in August 2018, and respondents were asked to complete and return the survey by September 2018. However, completed surveys were still accepted through October 2018.
+</p>
+<p>
+In 2018, surveys sent to SEA contacts were prepopulated with responses based on the state or territory’s 2017 survey responses. Given the large number of survey items, feedback from the 2017 survey indicated that prepopulated responses would allow respondents to see how questions were answered the previous year and facilitate more consistent responses over time.
+</p>
+</sec>
+<sec id="sec16-ed611868">
+<title>
+Data Processing and Imputation
+</title>
+<p>
+Survey responses were collated from the returned fillable PDFs into a data file for analysis. No imputation was performed at either the unit or item level. Data cleaning was conducted to ensure that state and territory responses were recorded correctly, taking skip logic into account.
+</p>
+<p>
+That is, survey respondents were directed to skip certain questions if particular data types or capabilities were not planned in their states or territories. Skipped responses were populated as “not planned” rather than “not answered.” This approach ensured that the “not answered” category represented true missing responses and that those responses were not comingled with “not planned” responses that were missing only because of the skip logic.
+</p>
+</sec>
+<sec id="sec17-ed611868">
+<title>
+Response Rates
+</title>
+<p>
+Fifty-one of 56 SEAs completed the SLDS Survey, for a response rate of 91 percent. No weighting or imputations were used to address missing data in this survey.
+</p>
+</sec>
+<sec id="sec18-ed611868">
+<title>
+Data Validation
+</title>
+<p>
+One limitation of this survey is that responses might vary based on who provided the survey response. To address this limitation, the SLDS State Support Team (SST) conducted data validation on survey responses. The SST is a group of data systems experts
+</p>
+<p>
+who provide direct support to states related to the development, management, and use of SLDSs.
+</p>
+<p>
+SST support is available regardless of whether the requesting state or territory has received an SLDS grant. Data validation was conducted in two ways during data processing and analysis. First, the SST members reviewed survey data for their assigned states and communicated potential errors to the states so that they could review the data and make any needed corrections.
+</p>
+<p>
+The second step was to provide SST members with aggregate analyses in order to further validate state responses.
+</p>
+</sec>
+<sec id="sec19-ed611868" sec-type="methods">
+<title>
+Statistical Procedures
+</title>
+<p>
+The survey data were analyzed to produce aggregate summary data showing the proportion of states and territories reporting that aspects of their SLDSs were operational, in progress, planned, or not planned, or that failed to answer. Because no sampling or weighting was performed, simple percentages were calculated and are presented in this brief.
+</p>
+</sec>
+</sec>
+</sec>
+<sec id="sec20-ed611868">
+<title>
+RUN YOUR OWN ANALYSIS WITH DATALAB
+</title>
+<p>
+You can replicate or expand upon the figures and tables in this report, or even create your own. DataLab has several tools that allow you to customize and generate output from a variety of survey datasets. Visit DataLab at
+</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<fn id="fn1-ed611868">
+<label>
+1
+</label>
+<p>
+P-20W+ refers to data from prekindergarten (early childhood), K–12, and postsecondary through postgraduate education, along with workforce and other outcomes data (e.g., public assistance and corrections data). The specific agencies and other organizations that participate in the P-20W+ initiative vary from state to state.
+</p>
+</fn>
+
+<fn id="fn2-ed611868">
+<label>
+2
+</label>
+<p>
+In a centralized data model, all participating source data systems periodically copy their data to a single, centrally located data repository that organizes, integrates, and stores them using a common data standard. Users can query the system to access the data that they have been authorized to view and use.
+</p>
+</fn>
+<fn id="fn3-ed611868">
+<label>
+3
+</label>
+<p>
+In a federated data model, individual source data systems maintain control over their own data but agree to share some or all of their data with other participating systems upon request. Users submit queries via a shared intermediary interface that then searches the independent source systems. Data from source systems are located and matched to fulfill a specific data request. The linked data are not stored but rather are removed once cached and delivered.
+</p>
+</fn>
+<fn id="fn4-ed611868">
+<label>
+4
+</label>
+<p>
+A hybrid data model combines features of the centralized and federated models. For example, hybrid models may establish and maintain
+</p>
+</fn>
+<fn id="fn5-ed611868">
+<p>
+data linkages through common identifiers such as Social Security number, name, date of birth, and student identifier, while data such as enrollment, attainment, and assessment information are kept separate until requested by researchers or other users.
+</p>
+</fn>
+
+<fn id="fn6-ed611868">
+<label>
+5
+</label>
+<p>
+An element match process uses one or more data elements to link or connect records or datasets. For example, a state or territory may use student characteristics such as date of birth, last name, and grade level to connect records between postsecondary and K–12 data systems.
+</p>
+</fn>
+<fn id="fn7-ed611868">
+<label>
+6
+</label>
+<p>
+A Student Record Exchange application facilitates the secure and efficient electronic exchange of student records as students move between schools.
+</p>
+</fn>
+</fn-group>
+</back>
+</article>
